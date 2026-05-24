@@ -1,0 +1,11 @@
+# 测试本 skill 时，它会在项目里生成这个笔记文件夹，不需要进仓库
+逆变笔记/
+
+# 操作系统杂项文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器配置
+.vscode/
+.idea/
